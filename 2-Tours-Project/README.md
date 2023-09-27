@@ -1,8 +1,7 @@
 # Tours Website Project
 
 <img src="https://i.ibb.co/hHvshn4/Screenshot-2023-09-27-at-15-27-38.png" alt="Screenshot-2023-09-27-at-15-27-38" border="0">
-<img src="https://i.ibb.co/Krgp0rv/Screenshot-2023-09-27-at-15-27-55.png" alt="Screenshot-2023-09-27-at-15-27-55" border="0">
-<img src="https://i.ibb.co/CBPZLh7/Screenshot-2023-09-27-at-15-28-05.png" alt="Screenshot-2023-09-27-at-15-28-05" border="0">
+
 This project is a simple React application that displays a list of tours. Users can view tour details, read more information, and remove tours they are not interested in. The tours are fetched from an API.
 
 ## Technologies Used
