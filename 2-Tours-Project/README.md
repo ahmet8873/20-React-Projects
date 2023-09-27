@@ -2,6 +2,10 @@
 
 This project is a simple React application that displays a list of tours. Users can view tour details, read more information, and remove tours they are not interested in. The tours are fetched from an API.
 
+## live
+
+https://react-tours-project2.netlify.app/
+
 ## Technologies Used
 
 - React
