@@ -1,6 +1,5 @@
 # Birthday Reminder Project
 
-![Project Image](https://ibb.co/p2Nr8pW)
 <img src="https://i.ibb.co/Y2JTMGD/Screenshot-2023-09-27-at-14-53-57.png" alt="Screenshot-2023-09-27-at-14-53-57" border="0">
 
 This project is a simple React application that displays a list of people with their names, ages, and images. Users can clear the list of birthdays displayed. The project is designed to help users keep track of upcoming birthdays.
